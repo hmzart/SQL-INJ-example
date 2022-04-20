@@ -1,2 +1,5 @@
-# SQL-INJ example
- we will make sql applications
+# SQL INJECTION APPLICATIONS
+ 
+ 'fdsfsd'
+
+
