@@ -12,5 +12,7 @@ SQL injection is a web security vulnerability that allows an attacker to interfe
 # SQL Injection Based on 1=1 is Always True
 For example, there is a user named user on your site. And if you don't know the password, you can log in with the parameter 1 =1 using Or.
 UserID
+![sql_injection](https://user-images.githubusercontent.com/103367369/164253413-5608a55b-747e-40a0-b2b0-962638a5d019.gif)
+
 
 
